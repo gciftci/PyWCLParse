@@ -1,4 +1,4 @@
-# PyWCLParse (ICC)
+# PyWCLParse (ICC) 3400+ Fights (Last Update: October 7.)
 
 ## Scans
 JSON formatted [data](scans/) from WCL

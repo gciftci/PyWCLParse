@@ -1,8 +1,8 @@
 import requests
 import json
 
-clientID = "__"
-clientSecret = "__"
+clientID = ""
+clientSecret = ""
 
 autUri = "https://classic.warcraftlogs.com/oauth/authorize"
 tokenUri = "https://classic.warcraftlogs.com/oauth/token"
@@ -46,7 +46,7 @@ def retrieve_header() -> dict[str, str]:
 
 # graphQL-Query https://classic.warcraftlogs.com/v2-api-docs/warcraft/
 def get_data(query: str, **kwargs) -> None:
-    ''' Fetch Data '''
+    """Fetch Data"""
     data = {"query": query, "variables": kwargs}
 
     with requests.Session() as session:
