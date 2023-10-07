@@ -1,1 +1,5 @@
-/.credentials
+cred.py
+.venv
+__pyca*
+.creds.json
+.vscode

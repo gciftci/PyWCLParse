@@ -1,0 +1,407 @@
+{
+  "data": {
+    "reportData": {
+      "reports": {
+        "total": -1,
+        "per_page": 100,
+        "current_page": 1,
+        "has_more_pages": true,
+        "data": [
+          {
+            "code": "8cpjQyWMf4K7hntY",
+            "fights": [
+              {
+                "name": "Grove Walker",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Deathbound Ward",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Deathbound Ward",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Lord Marrowgar",
+                "bossPercentage": 0.01,
+                "encounterID": 845,
+                "kill": true
+              }
+            ]
+          },
+          {
+            "code": "vaYF3LqyXdt4cbH2",
+            "fights": [
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "The Damned",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Deathbound Ward",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Deathbound Ward",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Lord Marrowgar",
+                "bossPercentage": 0.01,
+                "encounterID": 845,
+                "kill": true
+              },
+              {
+                "name": "Deathspeaker Zealot",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Deathspeaker High Priest",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Lady Deathwhisper",
+                "bossPercentage": 0.01,
+                "encounterID": 846,
+                "kill": true
+              },
+              {
+                "name": "Kor'kron Sniper",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Spire Frostwyrm",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Icecrown Gunship Battle",
+                "bossPercentage": 69.65,
+                "encounterID": 847,
+                "kill": false
+              },
+              {
+                "name": "Kor'kron Reaver",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Orgrim's Hammer",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Icecrown Gunship Battle",
+                "bossPercentage": 0.41,
+                "encounterID": 847,
+                "kill": true
+              },
+              {
+                "name": "High Overlord Saurfang",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Deathbringer Saurfang",
+                "bossPercentage": 49.65,
+                "encounterID": 848,
+                "kill": false
+              },
+              {
+                "name": "Deathbringer Saurfang",
+                "bossPercentage": 56.8,
+                "encounterID": 848,
+                "kill": false
+              },
+              {
+                "name": "Black Rat",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Deathbringer Saurfang",
+                "bossPercentage": 50.73,
+                "encounterID": 848,
+                "kill": false
+              },
+              {
+                "name": "Deathbringer Saurfang",
+                "bossPercentage": 0.01,
+                "encounterID": 848,
+                "kill": true
+              },
+              {
+                "name": "Unknown",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Sister Svalna",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Sister Svalna",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Sister Svalna",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Stinky",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Plague Scientist",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Vengeful Fleshreaper",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 86.11,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Plagued Insect",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 84.63,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 73.15,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Unknown",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Val'kyr Herald",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 76.88,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 20.2,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 66.44,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Unknown",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 32.84,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 82.55,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Festergut",
+                "bossPercentage": 65.53,
+                "encounterID": 849,
+                "kill": false
+              },
+              {
+                "name": "Plague Scientist",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Rotface",
+                "bossPercentage": 15.76,
+                "encounterID": 850,
+                "kill": false
+              },
+              {
+                "name": "Vengeful Fleshreaper",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Vengeful Fleshreaper",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              },
+              {
+                "name": "Rotface",
+                "bossPercentage": 18.24,
+                "encounterID": 850,
+                "kill": false
+              },
+              {
+                "name": "Rotface",
+                "bossPercentage": 35.63,
+                "encounterID": 850,
+                "kill": false
+              }
+            ]
+          },
+          {
+            "code": "fbVGM2DrjdZkmLaW",
+            "fights": [
+              {
+                "name": "Lord Marrowgar",
+                "bossPercentage": 0.01,
+                "encounterID": 845,
+                "kill": true
+              },
+              {
+                "name": "Lady Deathwhisper",
+                "bossPercentage": 0.01,
+                "encounterID": 846,
+                "kill": true
+              },
+              {
+                "name": "Icecrown Gunship Battle",
+                "bossPercentage": 0.02,
+                "encounterID": 847,
+                "kill": true
+              },
+              {
+                "name": "Deathbringer Saurfang",
+                "bossPercentage": 59.73,
+                "encounterID": 848,
+                "kill": false
+              },
+              {
+                "name": "The Lich King",
+                "bossPercentage": null,
+                "encounterID": 0,
+                "kill": null
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
