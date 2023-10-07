@@ -1,7 +1,7 @@
 # PyWCLParse (ICC)
 
 ## Scans
-JSON formatted [data](scans/scan_0.json) from WCL
+JSON formatted [data](scans/) from WCL
 
 ## Homepage
 [Encounters](page/index.html) listed by Report and Boss
